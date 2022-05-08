@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rpg.h": "c",
+        "players.h": "c",
+        "enemy.h": "c"
+    }
+}
